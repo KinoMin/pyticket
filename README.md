@@ -18,7 +18,7 @@ pip3 install ttkbootstrap -i https://pypi.tuna.tsinghua.edu.cn/simple
 # 介绍
 该项目使用 Python3 抓取 12306 实现在线抢票功能。
 
-web开发使用 [Django](https://docs.djangoproject.com/)开发, 可视化界面使用 [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/zh/styleguide/entry/)进行开发。
+可视化界面使用 [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/zh/styleguide/entry/)进行开发。
 
 # 运行
 ```bash
